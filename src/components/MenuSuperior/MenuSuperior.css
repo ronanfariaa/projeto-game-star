@@ -16,3 +16,13 @@
     margin-bottom: 0;
     list-style: none;
 }
+
+.menuSup-nav .nav{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    justify-content: center;
+    list-style: none;
+}
