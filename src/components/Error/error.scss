@@ -1,0 +1,27 @@
+@import './../../styles/__variables.scss';
+@import './../../styles/buttons.scss';
+
+.error-div {
+    
+    text-align: center;
+
+    img{
+        width: 100%;
+        margin-bottom: 5vh;
+    }
+
+    .erro-text {
+        font-family: $fontPressStart;
+        color: $colorWhite;
+        text-align: center;
+        margin: auto;
+        font-size: 1em;
+        letter-spacing: .05em;
+        margin-bottom: 5vh;
+    }
+
+    .start-btn {
+        font-size: 1.5em;
+    }
+
+}
