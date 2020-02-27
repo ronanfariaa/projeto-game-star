@@ -1,0 +1,18 @@
+*{
+    align-items: center;
+}
+
+.menuSup_Href{
+    justify-content: center;
+    display: flex;
+}
+
+.menuSup-Logo{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    justify-content: center;
+    margin-bottom: 0;
+    list-style: none;
+}
