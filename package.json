@@ -5,7 +5,7 @@
   "dependencies": {
     "apisauce": "^1.0.3",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "npm-api": "^1.0.0",
     "popper.js": "^1.15.0",
     "react": "^16.2.0",
